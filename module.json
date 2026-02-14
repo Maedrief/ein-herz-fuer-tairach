@@ -1,0 +1,48 @@
+{
+  "id": "ein-herz-fur-tairach",
+  "title": "Ein Herz für Tairach",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "Ilaris",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "ivan-duch-music-packs",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Tilmann Kircher",
+      "flags": {}
+    },
+    {
+      "name": "Marcel Friedrich",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "ehft",
+      "label": "ehft",
+      "path": "packs/ehft",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "Ilaris"
+    }
+  ]
+}
