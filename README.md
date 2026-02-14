@@ -1,4 +1,4 @@
-Ein Einsteigerabenteuer aus den Chroniken von Ilaris Band I.
+Ein Einsteigerabenteuer von Tilmann Kircher aus den Chroniken von Ilaris Band I.
 Einige Karten enthalten Assets von Forgotten Adventures www.forgotten-adventures.net. Die Karten dürfen für nicht-kommerzielle Zwecke weiterverwendet werden, 
 vorausgesetzt es handelt sich nicht um physische Produkte. Die Assets dürfen außerhalb der Karten nur mit Genehmigung von Forgotten Adventures verwendet werden.
 
